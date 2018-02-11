@@ -6,3 +6,5 @@
 /.vs
 /src/AM.Web.TagHelpers/bin
 /src/AM.Web.TagHelpers/obj
+/test/AM.Web.TagHelpers.Tests/bin
+/test/AM.Web.TagHelpers.Tests/obj
